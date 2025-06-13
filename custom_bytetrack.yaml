@@ -1,0 +1,10 @@
+# custom_bytetrack.yaml (Updated with modern parameter names)
+
+# Corresponds to the old 'track_thresh'
+track_activation_threshold: 0.4
+
+# Corresponds to the old 'track_buffer'
+lost_track_buffer: 30
+
+# Corresponds to the old 'match_thresh'
+minimum_matching_threshold: 0.85
