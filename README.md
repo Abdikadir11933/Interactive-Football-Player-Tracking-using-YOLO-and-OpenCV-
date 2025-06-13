@@ -70,7 +70,7 @@ License
 This project is licensed under the MIT License. See the LICENSE.md file for details.
 
 Contact
-Your Name - Abducadir Aligure 
+Abducadir Aligure 
 
 Project Link: https://github.com/Abdikadir11933/Interactive-Football-Player-Tracking-using-YOLO-and-OpenCV-/edit/main/README.md
 Vie Sheetsiinbeing ashes
